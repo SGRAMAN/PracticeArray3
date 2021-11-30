@@ -24,6 +24,10 @@ public class Practice {
 	Set b = new LinkedHashSet();
 	b.addAll(a);
 	System.out.println(b);
+
 	System.out.println("perf to master");
+
+	System.out.println("Dev to master");
+
 }
 }
